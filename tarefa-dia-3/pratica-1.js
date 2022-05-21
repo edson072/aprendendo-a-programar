@@ -1,5 +1,4 @@
-meunome = "edson"     
-meuemail  = "edsongol1@yahoo.com.br"
-minhaprofissao = "Analista" 
-idade  36
-conhecer  "europa"  
+let meunome = 'edson'
+let meupais = 'brasil'
+let meuemail = 'edsongol1@yahoo.com.br'
+console.log(meunome, meupais, meuemail)
